@@ -21,3 +21,4 @@ rl.question("Digite un número: ", (input) => {
 
   rl.close();
 });
+
