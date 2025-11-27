@@ -1,6 +1,7 @@
 // Ejercicio 3
 // Mostrar nombre, notas, promedio y si aprobó
 
+
 const nombre = "Salome";
 
 let nota1 = 4.2;
@@ -18,4 +19,5 @@ if (promedio >= 3.5) {
 } else {
   console.log("Reprobó :(");
 }
+
 
