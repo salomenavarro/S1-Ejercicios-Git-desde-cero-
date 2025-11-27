@@ -1,7 +1,5 @@
-// 4. un archivo.js con el código funcional    de números pares e impares que me arroje en consola el listado de los números pares e impares del 1 al 30
-
-// paresImpares.js
-// Lista los números pares e impares del 1 al 30
+// Ejercicio 4
+// Listar los números pares e impares del 1 al 30
 
 let pares = [];
 let impares = [];

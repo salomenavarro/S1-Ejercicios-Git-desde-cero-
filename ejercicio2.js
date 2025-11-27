@@ -1,6 +1,5 @@
-// 2. un archivo .js 
-
-// con el código funcional  que defina variables y devuelva como resultado en consola hola el nombre de la persona
+// Ejercicio 2
+// Define variables y devuelve "Hola + nombre"
 
 const nombre = "Salome";
 

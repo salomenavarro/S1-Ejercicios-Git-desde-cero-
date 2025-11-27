@@ -1,4 +1,7 @@
-// 3. un archivo.js con el código funcional que refleje su nombre notas para tres materias el promedio de las materias y si aprobó o no aprobó con nota minima 3.5
+// Ejercicio 3
+// Mostrar nombre, notas, promedio y si aprobó
+
+const nombre = "Salome";
 
 let nota1 = 4.2;
 let nota2 = 3.8;
@@ -6,13 +9,13 @@ let nota3 = 2.9;
 
 let promedio = (nota1 + nota2 + nota3) / 3;
 
+console.log("Nombre:", nombre);
 console.log("Notas:", nota1, nota2, nota3);
-console.log("Promedio:", promedio);
+console.log("Promedio:", promedio.toFixed(2));
 
-// Verificar si aprobó o no
 if (promedio >= 3.5) {
-  console.log("Aprobado :)");
+  console.log("Aprobó :)");
 } else {
-  console.log("Reprobo :(");
+  console.log("Reprobó :(");
 }
 

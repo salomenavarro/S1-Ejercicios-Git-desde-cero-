@@ -2,14 +2,9 @@
 
 ## Versiones Git - GitHub
 
-### Salome Navarro Pineda
-### 3223874	
-
-##### Datos Personales
-
-
-Formacion: Tecnologia en analisis y desarrollo de sistemas
-Correo: navarrosalome16@gmail.com
-Instructor: Gustavo Bolaños
-Fecha: 29/10/2025
-
+**Nombre:** Salome Navarro Pineda  
+**Código:** 3223874  
+**Formación:** Tecnología en Análisis y Desarrollo de Sistemas  
+**Correo:** navarrosalome16@gmail.com  
+**Instructor:** Gustavo Bolaños  
+**Fecha:** 29/10/2025
